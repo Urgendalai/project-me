@@ -15,11 +15,11 @@ This project estimates land-based carbon stock and sequestration over time using
 
 ## Project Structure
 
-carbon_integrated_timeseries.py    # Main modeling script
-lulc_2030.tif                      # Example LULC raster (year 2030) 
-carbon_pools.csv                   # CSV lookup: LULC class
-carbon stock climate_impact.tif    # (Optional) Climate modifier raster outputs
-carbon_time_series_YYYYMMDD.csv    # Time-stamped results
+carbon_integrated_timeseries.py    # Main modeling script/
+lulc_2030.tif                      # Example LULC raster (year 2030) /
+carbon_pools.csv                   # CSV lookup: LULC class/
+carbon stock climate_impact.tif    # (Optional) Climate modifier raster outputs/
+carbon_time_series_YYYYMMDD.csv    # Time-stamped results/
 
 ---
 
